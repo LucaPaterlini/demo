@@ -1,3 +1,6 @@
+<!---
+Maybe the gogle cloud trigger will work
+-->
 # Cloud Native DevOps with Kubernetes
 
 ![Cloud Native DevOps cover image](/img/cover.jpg)
